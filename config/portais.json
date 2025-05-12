@@ -1,0 +1,208 @@
+[
+  {
+    "nome": "ComprasRS",
+    "estado": "RS",
+    "url": "https://www.compras.rs.gov.br/",
+    "busca_xpath": "//input[@id='searchBox']",
+    "botao_xpath": "//button[@id='InButton_buscaRapida']"
+  },
+  
+  {
+    "nome": "Abaeté",
+    "estado": "MG",
+    "url": "https://abaete.mg.gov.br/licitacoes/",
+    "busca_xpath": "//input[@placeholder='Objeto ou Título']",
+    "botao_xpath": "//button[@id='InButton_buscaRapida']"
+  },
+
+  {
+    "nome": "Brumadinho",
+    "estado": "MG",
+    "url": "https://novo.brumadinho.mg.gov.br/portal/licitacao/lista",
+    "busca_xpath": "//input[@id='descricao']",
+    "botao_xpath": "//button[@class='btn btn-primary w-100']"
+  },
+
+  {
+    "nome": "Betim",
+    "estado": "MG",
+    "url": "https://www.betim.mg.gov.br/portal/editais/1",
+    "busca_xpath": "//input[@id='form_descricao']",
+    "botao_xpath": "//button[@class='buscar']"
+  },
+
+  {
+    "nome": "Biquinhas",
+    "estado": "MG",
+    "url": "https://www.biquinhas.mg.gov.br/licitacoes",
+    "busca_xpath": "//input[@id='txt_palavraChave']",
+    "botao_xpath": "//input[@id='btn_aplicarFiltro']"
+  },
+
+  {
+    "nome": "Esmeraldas",
+    "estado": "MG",
+    "url": "https://www.esmeraldas.mg.gov.br/licitacoes",
+    "busca_xpath": "//input[@id='key_word']",
+    "botao_xpath": "//input[@value='Buscar']"
+  },
+
+  {
+    "nome": "Juatuba",
+    "estado": "MG",
+    "url": "https://www.juatuba.mg.gov.br/portal/editais/1",
+    "busca_xpath": "//input[@id='form_descricao']",
+    "botao_xpath": "//input[@id='buscar']"
+  },
+
+  {
+    "nome": "Maravilhas",
+    "estado": "MG",
+    "url": "https://maravilha.sc.gov.br/licitacoes/",
+    "busca_xpath": "//input[@id='_search']",
+    "botao_xpath": "//input[@class='filter_apply_btn']"
+  },
+
+  {
+    "nome": "Papagaios",
+    "estado": "MG",
+    "url": "https://papagaios.mg.gov.br/licitacao",
+    "busca_xpath": "//input[@id='nome']",
+    "botao_xpath": "//input[@id='submit']"
+  },
+
+  {
+    "nome": "São Gonçalo do Abaeté",
+    "estado": "MG",
+    "url": "https://www.saogoncalodoabaete.mg.gov.br/licitacoes",
+    "busca_xpath": "//input[@id='key_word']",
+    "botao_xpath": "//input[@class='btn btn-primary']"
+  },
+
+  {
+    "nome": "Pompeu",
+    "estado": "MG",
+    "url": "https://www.cmpompeu.mg.gov.br/licitacoes.aspx",
+    "busca_xpath": "//input[@id='MainContent_tb_contendo']",
+    "botao_xpath": "//input[@id='MainContent_Filtrar']"
+  },
+
+  {
+    "nome": "Caetanopolis",
+    "estado": "MG",
+    "url": "https://www.caetanopolis.mg.gov.br/licitacoes#openfilter",
+    "filtro_xpath": "//a[@href='#openfilter']",
+    "busca_xpath": "//input[@id='txt_palavraChave']",
+    "lista_xpath": {
+      "xpath": "//*[@id='ddl_quantidade_registros']",
+      "valor": "100"
+    },
+    "botao_xpath": "//input[@id='btn_aplicarFiltro']"
+  },
+
+  {
+    "nome": "Mario Campos",
+    "estado": "MG",
+    "url": "https://www.mariocampos.mg.gov.br/licitacoes",
+    "filtro_xpath": "//a[@href='#openfilter']",
+    "busca_xpath": "//input[@id='txt_palavraChave']",
+    "lista_xpath": {
+      "xpath": "//*[@id='ddl_quantidade_registros']",
+      "valor": "100"
+    },
+    "botao_xpath": "//input[@id='btn_aplicarFiltro']"
+  },
+
+  {
+    "nome": "Morada Nova de Minas",
+    "estado": "MG",
+    "url": "https://www.moradanova.mg.gov.br/licitacoes",
+    "filtro_xpath": "//a[@href='#openfilter']",
+    "busca_xpath": "//input[@id='txt_palavraChave']",
+    "lista_xpath": {
+      "xpath": "//*[@id='ddl_quantidade_registros']",
+      "valor": "100"
+    },
+    "botao_xpath": "//input[@id='btn_aplicarFiltro']"
+  },
+
+  {
+    "nome": "Paraopeba",
+    "estado": "MG",
+    "url": "https://www.paraopeba.mg.gov.br/licitacoes",
+    "filtro_xpath": "//a[@href='#openfilter']",
+    "busca_xpath": "//input[@id='txt_palavraChave']",
+    "lista_xpath": {
+      "xpath": "//*[@id='ddl_quantidade_registros']",
+      "valor": "100"
+    },
+    "botao_xpath": "//input[@id='btn_aplicarFiltro']"
+  },
+
+  {
+    "nome": "São Joaquim de Bicas",
+    "estado": "MG",
+    "url": "https://www.saojoaquimdebicas.mg.gov.br/licitacoes",
+    "filtro_xpath": "//a[@href='#openfilter']",
+    "busca_xpath": "//input[@id='txt_palavraChave']",
+    "lista_xpath": {
+      "xpath": "//*[@id='ddl_quantidade_registros']",
+      "valor": "100"
+    },
+    "botao_xpath": "//input[@id='btn_aplicarFiltro']"
+  },
+
+  {
+    "nome": "Três Marias",
+    "estado": "MG",
+    "url": "https://www.tresmarias.mg.gov.br/licitacoes",
+    "filtro_xpath": "//a[@href='#openfilter']",
+    "busca_xpath": "//input[@id='txt_palavraChave']",
+    "lista_xpath": {
+      "xpath": "//*[@id='ddl_quantidade_registros']",
+      "valor": "100"
+    },
+    "botao_xpath": "//input[@id='btn_aplicarFiltro']"
+  },
+
+  {
+    "nome": "Felixlandia",
+    "estado": "MG",
+    "url": "https://www.felixlandia.mg.gov.br/licitacoes",
+    "filtro_xpath": "//a[@href='#openfilter']",
+    "busca_xpath": "//input[@id='txt_palavraChave']",
+    "lista_xpath": {
+      "xpath": "//*[@id='ddl_quantidade_registros']",
+      "valor": "100"
+    },
+    "botao_xpath": "//input[@id='btn_aplicarFiltro']"
+  },
+
+  {
+    "nome": "Igarapé",
+    "estado": "MG",
+    "url": "https://www.igarape.mg.gov.br/licitacoes",
+    "filtro_xpath": "//a[@href='#openfilter']",
+    "busca_xpath": "//input[@id='txt_palavraChave']",
+    "lista_xpath": {
+      "xpath": "//*[@id='ddl_quantidade_registros']",
+      "valor": "100"
+    },
+    "botao_xpath": "//input[@id='btn_aplicarFiltro']"
+  },
+
+
+  
+  {
+    "nome": "Paineiras",
+    "estado": "MG",
+    "url": "https://www.paineiras.mg.gov.br/licitacoes",
+    "filtro_xpath": "//a[@href='#openfilter']",
+    "busca_xpath": "//input[@id='txt_palavraChave']",
+    "lista_xpath": {
+      "xpath": "//*[@id='ddl_quantidade_registros']",
+      "valor": "100"
+    },
+    "botao_xpath": "//input[@id='btn_aplicarFiltro']"
+  }
+]
