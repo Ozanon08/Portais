@@ -1,0 +1,22 @@
+[
+  {
+    "orgao": "ComprasRS",
+    "estado": "RS",
+    "url": "https://www.compras.rs.gov.br/editais/SUBSTITUIR_O_EDITAL_87_2012_POR_08_2012/111596"
+  },
+  {
+    "orgao": "ComprasRS",
+    "estado": "RS",
+    "url": "https://www.compras.rs.gov.br/editais/01_2008_Subst_/29738"
+  },
+  {
+    "orgao": "Belo Horizonte",
+    "estado": "MG",
+    "url": "https://novo.brumadinho.mg.gov.br/portal/licitacao/36625"
+  },
+  {
+    "orgao": "Belo Horizonte",
+    "estado": "MG",
+    "url": "https://novo.brumadinho.mg.gov.br/portal/licitacao/32632"
+  }
+]
